@@ -46,6 +46,7 @@ Browse the PHPMyAdmin in a browser. i.e. http://localhost/phpmyadmin
 Create a new database naming "booking_db".
 Import the provided SQL file. The file is known as "booking_db.sql" located inside the "dbengine" folder.
 Browse the Modern Ticket Reservation System in a browser. i.e. http://localhost/Bus_Ticket_Reservation_system
+
 Admin Access
 Username: admin
 Password: Vishyy@123
